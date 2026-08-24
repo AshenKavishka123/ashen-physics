@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "classes": "Classes",
+    "resources": "Resources",
+    "announcements": "Announcements",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "header": {
+    "joinClass": "Join a Class"
+  },
+  "footer": {
+    "quickLinks": "Quick links",
+    "copyright": "© 2026 Ashen Kavishka | Physics",
+    "socialPlaceholder": "Social media",
+    "language": "Language"
+  },
+  "home": {
+    "badge": "Advanced Level Physics",
+    "introHeading": "Advanced Level Physics",
+    "introBody": "Learning A/L Physics with clear explanations, structured practice, and a strong focus on understanding the ideas behind the formulas.",
+    "classesTitle": "Featured classes",
+    "whyTitle": "Why Physics matters",
+    "whyBody": "Physics grows the habit of understanding, testing ideas, and applying knowledge with confidence.",
+    "resourcesTitle": "Resources preview",
+    "announcementsTitle": "Recent announcements",
+    "galleryTitle": "Learning moments",
+    "ctaTitle": "Ready to start your Physics journey?",
+    "ctaContact": "Contact",
+    "ctaWhatsapp": "WhatsApp",
+    "whatsappPlaceholder": "WhatsApp placeholder"
+  },
+  "about": {
+    "title": "About",
+    "heading": "Ashen Kavishka | Physics",
+    "subtitle": "Physics Tutor",
+    "intro": "This website is designed for A/L Physics learners who want a clear, focused, and professional study experience.",
+    "philosophyTitle": "Teaching philosophy",
+    "philosophyText": "The focus is on helping students understand the logic beneath each concept, build confidence in problem solving, and study with structure.",
+    "approachTitle": "Learning approach",
+    "approachText": "Every lesson is shaped around understanding, practice, and application so students can connect theory to questions and real-world thinking.",
+    "focusTitle": "Physics education focus",
+    "focusText": "The learning path is centred on core A/L Physics topics, careful explanations, and step-by-step revision support.",
+    "pillars": ["Understand", "Practice", "Apply", "Achieve"]
+  },
+  "classes": {
+    "title": "Classes",
+    "subtitle": "Structured support for A/L Physics learners",
+    "filterLabel": "Filter by year",
+    "yearOptions": ["All years", "2026 A/L", "2027 A/L", "2028 A/L"]
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "A simple library for notes, papers, and study support",
+    "filterLabel": "Categories",
+    "all": "All"
+  },
+  "announcements": {
+    "title": "Announcements",
+    "subtitle": "Study updates and upcoming learning support"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "A preview of learning spaces and study themes"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch for class information and study support",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Send message",
+    "required": "Please fill in all fields correctly.",
+    "success": "Thanks! Your message is ready to be sent once the contact details are updated.",
+    "infoTitle": "Contact information",
+    "placeholderNumber": "Phone placeholder",
+    "placeholderEmail": "Email placeholder",
+    "placeholderWhatsApp": "WhatsApp placeholder",
+    "classLocation": "Class location placeholder",
+    "social": "Social placeholders"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "download": "Download",
+    "readMore": "Read more",
+    "viewResource": "View resource",
+    "moreInfo": "More info",
+    "year": "Year",
+    "type": "Class type",
+    "cta": "Get in touch",
+    "notes": "Notes",
+    "pastPapers": "Past Papers",
+    "modelPapers": "Model Papers",
+    "videoLessons": "Video Lessons"
+  }
+}

@@ -1,0 +1,20 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="url(#paint0_linear)"/>
+  <circle cx="1270" cy="280" r="180" fill="#DBEAFE" fill-opacity="0.16"/>
+  <path d="M220 640L760 640" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M820 220L1110 220" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M820 640L1170 640" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M760 210L760 660" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1190 210L1190 660" stroke="#E0F2FE" stroke-width="8" stroke-linecap="round"/>
+  <rect x="170" y="200" width="120" height="340" rx="22" fill="#EFF6FF" fill-opacity="0.18"/>
+  <rect x="170" y="200" width="120" height="250" rx="22" fill="#EFF6FF" fill-opacity="0.24"/>
+  <text x="170" y="230" fill="#EFF6FF" font-family="Arial, sans-serif" font-size="70" font-weight="700">P</text>
+  <text x="170" y="440" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="70" font-weight="600">Paper</text>
+  <text x="170" y="510" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="60" font-weight="600">Class</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="url(#paint0_linear)"/>
+  <path d="M120 690C290 540 430 490 585 470C760 448 880 530 1010 600C1180 692 1300 708 1460 620" stroke="#EFF6FF" stroke-width="7" stroke-linecap="round"/>
+  <path d="M100 300L290 300" stroke="#DBEAFE" stroke-width="5"/>
+  <path d="M100 360L380 360" stroke="#DBEAFE" stroke-width="5"/>
+  <path d="M100 420L330 420" stroke="#DBEAFE" stroke-width="5"/>
+  <circle cx="1130" cy="310" r="170" stroke="#E0F2FE" stroke-width="4"/>
+  <path d="M1130 190V430" stroke="#E0F2FE" stroke-width="4"/>
+  <path d="M1010 310H1250" stroke="#E0F2FE" stroke-width="4"/>
+  <circle cx="1130" cy="310" r="72" fill="#EFF6FF" fill-opacity="0.2"/>
+  <text x="170" y="230" fill="#EFF6FF" font-family="Arial, sans-serif" font-size="100" font-weight="700">2026 A/L</text>
+  <text x="170" y="332" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="74" font-weight="600">Revision Classes</text>
+  <rect x="170" y="408" width="430" height="96" rx="18" fill="#EFF6FF" fill-opacity="0.18"/>
+  <text x="210" y="472" fill="#E0F2FE" font-family="Arial, sans-serif" font-size="32" font-weight="700">Practice • Review • Improve</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#A5D8FF"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,128 @@
+.carousel {
+  position: relative;
+  width: min(100%, 1200px);
+  margin: 0 auto;
+}
+
+.carousel__viewport {
+  position: relative;
+  overflow: hidden;
+  border-radius: 28px;
+  min-height: 520px;
+  background: linear-gradient(135deg, #dbeafe 0%, #eff6ff 100%);
+  box-shadow: 0 20px 45px rgba(59, 130, 246, 0.12);
+}
+
+.carousel__slide {
+  position: relative;
+  min-height: 520px;
+  display: flex;
+  align-items: stretch;
+}
+
+.carousel__media {
+  width: 100%;
+  min-height: 520px;
+  object-fit: cover;
+  display: block;
+}
+
+.carousel__overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(15, 23, 42, 0.72) 0%, rgba(15, 23, 42, 0.18) 55%, rgba(15, 23, 42, 0.45) 100%);
+}
+
+.carousel__content {
+  position: absolute;
+  inset: auto auto 32px 32px;
+  width: min(100%, 560px);
+  color: #fff;
+  z-index: 2;
+}
+
+.carousel__content h1 {
+  color: #fff;
+  font-size: clamp(2.2rem, 5vw, 4.2rem);
+  line-height: 1.05;
+  margin: 10px 0 16px;
+  letter-spacing: -0.06em;
+}
+
+.carousel__content p {
+  color: rgba(255, 255, 255, 0.88);
+  max-width: 500px;
+  font-size: 1.02rem;
+}
+
+.eyebrow {
+  font-size: 0.72rem;
+  letter-spacing: 0.24em;
+  font-weight: 700;
+  color: #dbeafe;
+  text-transform: uppercase;
+}
+
+.carousel__actions {
+  margin-top: 22px;
+}
+
+.carousel__controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 18px;
+  gap: 16px;
+}
+
+.carousel__dots {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.carousel__dots button {
+  width: 11px;
+  height: 11px;
+  border-radius: 999px;
+  padding: 0;
+  border: 1px solid rgba(59, 130, 246, 0.6);
+  background: rgba(59, 130, 246, 0.14);
+  transition: all 0.2s ease;
+}
+
+.carousel__dots button.is-active {
+  width: 34px;
+  background: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.carousel__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  background: rgba(255, 255, 255, 0.9);
+  color: #1e293b;
+  box-shadow: 0 8px 14px rgba(15, 23, 42, 0.08);
+}
+
+@media (max-width: 768px) {
+  .carousel__viewport,
+  .carousel__slide,
+  .carousel__media {
+    min-height: 440px;
+  }
+
+  .carousel__content {
+    inset: auto 20px 24px 20px;
+    width: auto;
+  }
+
+  .carousel__content p {
+    font-size: 0.95rem;
+  }
+}
