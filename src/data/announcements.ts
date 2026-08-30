@@ -3,10 +3,10 @@
 export const announcements: AnnouncementItem[] = [
   {
     id: 'announce-revision-drive',
-    title: { en: '2027 A/L Smart Revison', si: '2027 උ/පෙ Smart Revision' },
+    title: { en: '2027 A/L Smart Revision registration open', si: '2027 උ/පෙ Smart Revision ලියාපදිංචිය විවෘත​යි' },
     description: {
-      en: 'A smart revision for 2027 A/L ',
-      si: '2027 උ/පෙ සඳහා Smart Revision',
+      en: 'Students can join focused revision sessions to sharpen the concepts they already know.',
+      si: 'දැන ඇති සංකල්ප තව දුරටත් පදනම් කරගනිමින් සෘජු සමාලෝචන පන්ති භාවිතා කරන්න.',
     },
     date: '2026-08-30',
     category: 'Revision',
