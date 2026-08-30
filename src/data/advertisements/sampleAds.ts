@@ -19,8 +19,8 @@ export const sampleAds: AdvertisementItem[] = [
   {
     id: 'ad-revision',
     type: 'image',
-    mediaSrc: '/images/ad-revision.svg',
-    posterSrc: '/images/ad-revision.svg',
+    mediaSrc: '',
+    posterSrc: '',
     title: { en: '2027 A/L Physics — Revision Classes', si: '2027 උ/පෙ භෞතික විද්‍යාව — සමාලෝචන පන්ති' },
     description: {
       en: 'Use focused revision sessions to sharpen the concepts you already know.',
