@@ -1,14 +1,14 @@
-import type { AnnouncementItem } from '../types/content'
+  import type { AnnouncementItem } from '../types/content'
 
 export const announcements: AnnouncementItem[] = [
   {
     id: 'announce-revision-drive',
-    title: { en: 'Revision drive for A/L Physics', si: 'උසස් පෙළ භෞතික විද්‍යාව සමාලෝචන වැඩසටහන' },
+    title: { en: '2027 A/L Smart Revison', si: '2027 උ/පෙ Smart Revision' },
     description: {
-      en: 'A focused revision support cycle designed for students preparing for the upcoming examination period.',
-      si: 'ඉදිරි විභාග කාලයට සූදානම් වන සිසුන් සඳහා සෘජු සමාලෝචන සහාය වැඩසටහන.',
+      en: 'A smart revision for 2027 A/L ',
+      si: '2027 උ/පෙ සඳහා Smart Revision',
     },
-    date: '2026-01-15',
+    date: '2026-08-30',
     category: 'Revision',
     image: '/images/gallery-2.svg',
     active: true,
