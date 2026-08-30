@@ -40,9 +40,9 @@ export default function Footer() {
         <div>
           <h3>{t('footer.socialPlaceholder')}</h3>
           <ul className="footer-links">
-            <li><a href="#">Facebook <ArrowUpRight size={14} /></a></li>
-            <li><a href="#">Instagram <ArrowUpRight size={14} /></a></li>
-            <li><a href="#">LinkedIn <ArrowUpRight size={14} /></a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=100090797553290">Facebook <ArrowUpRight size={14} /></a></li>
+            <li><a href="https://www.instagram.com/ashen__kavishka_/">Instagram <ArrowUpRight size={14} /></a></li>
+            <li><a href="https://www.linkedin.com/in/ashen-kavishka-47b962231/">LinkedIn <ArrowUpRight size={14} /></a></li>
           </ul>
         </div>
 
