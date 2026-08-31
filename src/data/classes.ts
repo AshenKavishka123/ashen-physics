@@ -27,7 +27,7 @@ export const classCatalog: ClassItem[] = [
   },
   {
     id: 'theory-2028',
-    title: { en: '2028 Theory Class', si: '2028 Theory පන්තිය' },
+    title: { en: '2028 Theory', si: '2028 Theory පන්තිය' },
     description: {
       en: 'Every Saturday, 1.00pm - 5.00pm | Texas - Galle.',
       si: 'සෑම සෙනසුරාදා දිනකම, 1.00pm - 5.00pm | Texas - ගාල්​ල.',
