@@ -75,14 +75,14 @@ export default function Header() {
                   to={item.to}
                   end={item.to === '/'}
                   className={({ isActive }) => `mobile-link${isActive ? ' is-active' : ''}`}
-                  onClick={() => setMobileOpen(false)}
+                  onClick={() => setMobileOpen(true)}
                 >
                   {t(item.label)}
                 </NavLink>
               ))}
               <div className="mobile-menu__footer">
                 <LanguageSwitcher />
-                <Link to="/contact" className="button button--primary" onClick={() => setMobileOpen(false)}>
+                <Link to="/contact" className="button button--primary" onClick={() => setMobileOpen(true)}>
                   {t('header.joinClass')}
                 </Link>
               </div>
