@@ -32,7 +32,7 @@ export const announcements: AnnouncementItem[] = [
       en: 'New students can join for new units.',
       si: 'නව ඒකක සඳහා නවක සිසුන්ට සම්බන්ධ විය හැක.',
     },
-    date: '2026-08-11',
+    date: '2026-08-31',
     category: 'Classes',
     image: '/images/gallery-4.svg',
     active: true,
