@@ -10,6 +10,11 @@ const motionProps = {
   transition: { duration: 0.4 },
 }
 
+const CONTACT_PHONE = '+94 70 405 5549'
+const CONTACT_EMAIL = 'ashenkavishka3224@gmail.com'
+const CONTACT_WHATSAPP = '+94 70405 5549'
+const CONTACT_LOCATION = 'Texas College, Galle'
+
 export default function Contact() {
   const { t } = useTranslation()
   const [form, setForm] = useState({ name: '', email: '', phone: '', message: '' })
@@ -55,28 +60,28 @@ export default function Contact() {
               <Phone size={18} color="#3b82f6" />
               <div>
                 <strong>{t('contact.phone')}</strong>
-                <span>{t('contact.placeholderNumber')}</span>
+                <span>{CONTACT_PHONE}</span>
               </div>
             </div>
             <div className="contact-list__item">
               <Mail size={18} color="#3b82f6" />
               <div>
                 <strong>{t('contact.email')}</strong>
-                <span>{t('contact.placeholderEmail')}</span>
+                <span>{CONTACT_EMAIL}</span>
               </div>
             </div>
             <div className="contact-list__item">
               <Send size={18} color="#3b82f6" />
               <div>
                 <strong>WhatsApp</strong>
-                <span>{t('contact.placeholderWhatsApp')}</span>
+                <span>{CONTACT_WHATSAPP}</span>
               </div>
             </div>
             <div className="contact-list__item">
               <MapPin size={18} color="#3b82f6" />
               <div>
                 <strong>{t('common.cta')}</strong>
-                <span>{t('contact.classLocation')}</span>
+                <span>{CONTACT_LOCATION}</span>
               </div>
             </div>
           </div>

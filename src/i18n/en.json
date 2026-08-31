@@ -76,10 +76,10 @@
     "required": "Please fill in all fields correctly.",
     "success": "Thanks! Your message is ready to be sent once the contact details are updated.",
     "infoTitle": "Contact information",
-    "placeholderNumber": "Phone placeholder",
-    "placeholderEmail": "Email placeholder",
-    "placeholderWhatsApp": "WhatsApp placeholder",
-    "classLocation": "Class location placeholder",
+    "placeholderNumber": "+94 70 405 5549",
+    "placeholderEmail": "ashenkavishka3224@gmail.com",
+    "placeholderWhatsApp": "+94 70405 5549",
+    "classLocation": "Texas College, Galle",
     "social": "Social placeholders"
   },
   "common": {
