@@ -2,18 +2,6 @@ import type { ClassItem } from '../types/content'
 
 export const classCatalog: ClassItem[] = [
   {
-    id: 'theory-2027',
-    title: { en: '2027 Theory', si: '2027 Theory පන්තිය' },
-    description: {
-      en: 'Every Sunday, 1.00pm - 5.00pm | Texas - Galle.',
-      si: 'සෑම ඉරි​දා දිනකම, 1.00pm - 5.00pm | Texas - ගාල්​ල.',
-    },
-    type: 'Theory',
-    year: '2027 A/L',
-    cta: { en: 'Explore', si: 'බලන්න' },
-    link: '/classes',
-  },
-  {
     id: 'revision-2027',
     title: { en: '2027 Revision', si: '2027 Revision පන්තිය' },
     description: {
@@ -47,6 +35,18 @@ export const classCatalog: ClassItem[] = [
     type: 'Paper Class',
     year: '2028 A/L',
     cta: { en: 'Join', si: 'එක්වන්න' },
+    link: '/classes',
+  },
+  {
+    id: 'theory-2027',
+    title: { en: '2027 Theory', si: '2027 Theory පන්තිය' },
+    description: {
+      en: 'Every Sunday, 1.00pm - 5.00pm | Texas - Galle.',
+      si: 'සෑම ඉරි​දා දිනකම, 1.00pm - 5.00pm | Texas - ගාල්​ල.',
+    },
+    type: 'Theory',
+    year: '2027 A/L',
+    cta: { en: 'Explore', si: 'බලන්න' },
     link: '/classes',
   },
 ]
