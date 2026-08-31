@@ -64,7 +64,7 @@ export const sampleAds: AdvertisementItem[] = [
   {
     id: 'ad-paper-class',
     type: 'video',
-    mediaSrc: 'https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4',
+    mediaSrc: '/videos/sky.mp4',
     posterSrc: '/images/ad-paper-poster.svg',
     title: { en: 'Physics Paper Class — Problem-solving focus', si: 'භෞතික විද්‍යා ප්‍රශ්න පන්තිය — ගැටලු විසඳුම් අවධානය' },
     description: {
