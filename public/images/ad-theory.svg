@@ -7,10 +7,7 @@
   <circle cx="1040" cy="300" r="44" fill="#60A5FA" fill-opacity="0.35"/>
   <path d="M1040 300L1200 300" stroke="#E0F2FE" stroke-width="5"/>
   <path d="M1040 300L965 190" stroke="#E0F2FE" stroke-width="5"/>
-  <text x="170" y="370" fill="#EFF6FF" font-family="Arial, sans-serif" font-size="110" font-weight="700">2027 A/L</text>
-  <text x="170" y="485" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="78" font-weight="600">Theory Classes</text>
   <rect x="170" y="560" width="360" height="90" rx="18" fill="#EFF6FF" fill-opacity="0.2"/>
-  <text x="210" y="618" fill="#E0F2FE" font-family="Arial, sans-serif" font-size="34" font-weight="700">F = ma</text>
   <defs>
     <linearGradient id="paint0_linear" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
       <stop stop-color="#3B82F6"/>
