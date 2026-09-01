@@ -2,21 +2,6 @@ import type { AdvertisementItem } from '../../types/content'
 
 export const sampleAds: AdvertisementItem[] = [
   {
-    id: 'ad-home',
-    type: 'image',
-    mediaSrc: '/images/ad-home.svg',
-    posterSrc: '/images/ad-home.svg',
-    title: { en: '', si: '' },
-    description: {
-      en: '',
-      si: '',
-    },
-    ctaText: { en: '', si: '' },
-    ctaLink: '',
-    duration: 7,
-    active: true,
-  },
-  {
     id: 'ad-home-video',
     type: 'video',
     mediaSrc: '/videos/water.mp4',
